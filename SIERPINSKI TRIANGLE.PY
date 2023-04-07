@@ -1,4 +1,5 @@
 '''
+
 1) Choose three points to form a triangle, which will be our main points.
 2) Select one random point inside the triangle.
 3) Plot a point that is equidistant from the random point and any of the main points.
